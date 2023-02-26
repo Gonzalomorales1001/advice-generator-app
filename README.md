@@ -15,6 +15,6 @@ This is a solution to the [Advice Generator app challenge on Frontend Mentor](ht
 
 ### Links
 
-[Netlify]()
+[Netlify](https://advice-generator-gm.netlify.app/)
 
-[FrontEnd Mentor]()
+[FrontEnd Mentor](https://www.frontendmentor.io/solutions/layout-using-bootstrap-H7CWhOjl4u)
